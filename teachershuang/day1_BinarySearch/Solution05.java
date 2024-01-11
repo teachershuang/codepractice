@@ -1,4 +1,4 @@
-package teachershuang.day1_BinarySearch;
+package day1_BinarySearch;
 
 /**
  * 给你一个正整数 num 。如果 num 是一个完全平方数，则返回 true ，否则返回 false 。

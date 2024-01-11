@@ -1,4 +1,4 @@
-package teachershuang.day4_Spiralmatrix;
+package day4_Spiralmatrix;
 
 import java.util.ArrayList;
 import java.util.List;

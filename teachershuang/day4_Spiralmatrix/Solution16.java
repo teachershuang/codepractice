@@ -1,4 +1,4 @@
-package teachershuang.day4_Spiralmatrix;
+package day4_Spiralmatrix;
 
 /**
  * 给定一个二维数组 array，请返回「螺旋遍历」该数组的结果。
