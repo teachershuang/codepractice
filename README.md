@@ -25,4 +25,4 @@ Thanks to 代码随想录(Code with the C++) for providing the problem sets for 
 
 Happy coding! 
 
-祝愉快编码！
+祝编程愉快！

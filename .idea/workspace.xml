@@ -4,25 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="991061a3-4b70-4679-8bf9-1ad57c833021" name="更改" comment="2024.1.9 readme修改">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/SubarrayWithTheSmallestLength/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/SubarrayWithTheSmallestLength/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/SubarrayWithTheSmallestLength/Solution13.java" afterDir="false" />
+    <list default="true" id="991061a3-4b70-4679-8bf9-1ad57c833021" name="更改" comment="2024.1.10 文件整理+day3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day1_BinarySearch/Solution01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day1_BinarySearch/Solution02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day1_BinarySearch/Solution03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day1_BinarySearch/Solution04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/BinarySearch/Solution05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day1_BinarySearch/Solution05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day2_RemovingElements/Solution06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day2_RemovingElements/Solution07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day2_RemovingElements/Solution08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day2_RemovingElements/Solution09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/RemovingElements/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day2_RemovingElements/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/SubarrayWithTheSmallestLength/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day3_SubarrayWithTheSmallestLength/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/SubarrayWithTheSmallestLength/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day3_SubarrayWithTheSmallestLength/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teachershuang/SubarrayWithTheSmallestLength/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teachershuang/day3_SubarrayWithTheSmallestLength/Solution13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,27 +67,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "20",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/kay/Documents/Code/Prictise/CodingPractice/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kay/Documents/Code/Prictise/CodingPractice/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -104,7 +101,8 @@
       <workItem from="1704766929345" duration="92000" />
       <workItem from="1704768961763" duration="214000" />
       <workItem from="1704769180275" duration="7666000" />
-      <workItem from="1704862550267" duration="2418000" />
+      <workItem from="1704862550267" duration="2747000" />
+      <workItem from="1704892667518" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="2024.1.8">
       <option name="closed" value="true" />
@@ -154,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704782005839</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2024.1.10 文件整理+day3">
+      <option name="closed" value="true" />
+      <created>1704868650016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704868650017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +193,7 @@
     <MESSAGE value="2024.1.8" />
     <MESSAGE value="2024.1.9" />
     <MESSAGE value="2024.1.9 readme修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.1.9 readme修改" />
+    <MESSAGE value="2024.1.10 文件整理+day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.1.10 文件整理+day3" />
   </component>
 </project>

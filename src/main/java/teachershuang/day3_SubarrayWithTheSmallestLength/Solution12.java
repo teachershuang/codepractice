@@ -1,4 +1,4 @@
-package com.teachershuang.SubarrayWithTheSmallestLength;
+package teachershuang.day3_SubarrayWithTheSmallestLength;
 
 
 /**

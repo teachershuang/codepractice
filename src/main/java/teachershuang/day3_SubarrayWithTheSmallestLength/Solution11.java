@@ -1,4 +1,4 @@
-package com.teachershuang.SubarrayWithTheSmallestLength;
+package teachershuang.day3_SubarrayWithTheSmallestLength;
 
 import java.util.HashMap;
 import java.util.Map;
