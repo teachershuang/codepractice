@@ -5,11 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991061a3-4b70-4679-8bf9-1ad57c833021" name="更改" comment="2024.1.12">
-      <change afterPath="$PROJECT_DIR$/teachershuang/day6_Linklist/Solution21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachershuang/day6_Linklist/Solution22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teachershuang/day6_Linklist/Solution23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day7_HashTable1/Solution24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day7_HashTable1/Solution25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day7_HashTable1/Solution26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day7_HashTable1/Solution27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day8_HashTable2/Solution28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day8_HashTable2/Solution29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_learning/day8_HashTable2/Solution30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day1_BinarySearch/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day1_BinarySearch/Solution01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day1_BinarySearch/Solution02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day1_BinarySearch/Solution02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day1_BinarySearch/Solution03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day1_BinarySearch/Solution03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day1_BinarySearch/Solution04.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day1_BinarySearch/Solution04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day1_BinarySearch/Solution05.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day1_BinarySearch/Solution05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day2_RemovingElements/Solution06.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day2_RemovingElements/Solution06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day2_RemovingElements/Solution07.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day2_RemovingElements/Solution07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day2_RemovingElements/Solution08.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day2_RemovingElements/Solution08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day2_RemovingElements/Solution09.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day2_RemovingElements/Solution09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day2_RemovingElements/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day2_RemovingElements/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day3_SubarrayWithTheSmallestLength/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day3_SubarrayWithTheSmallestLength/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day3_SubarrayWithTheSmallestLength/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day3_SubarrayWithTheSmallestLength/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day3_SubarrayWithTheSmallestLength/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day3_SubarrayWithTheSmallestLength/Solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day4_Spiralmatrix/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day4_Spiralmatrix/Solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day4_Spiralmatrix/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day4_Spiralmatrix/Solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day4_Spiralmatrix/Solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day4_Spiralmatrix/Solution16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day5_LinklistBasics/Solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day5_LinklistBasics/Solution17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day5_LinklistBasics/Solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day5_LinklistBasics/Solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day5_LinklistBasics/Solution19.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day5_LinklistBasics/Solution19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day5_LinklistBasics/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day5_LinklistBasics/Solution20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day6_Linklist/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day6_Linklist/Solution21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day6_Linklist/Solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day6_Linklist/Solution22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teachershuang/day6_Linklist/Solution23.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_learning/day6_Linklist/Solution23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +92,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/kay/Documents/Code/Prictise/CodingPractice/algorithm_learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +107,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm_learning" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day7_HashTable1" />
       <recent name="day6_Linklist" />
     </key>
   </component>
@@ -100,7 +131,7 @@
       <workItem from="1704862550267" duration="2747000" />
       <workItem from="1704892667518" duration="670000" />
       <workItem from="1704938010710" duration="13393000" />
-      <workItem from="1705111463959" duration="3554000" />
+      <workItem from="1705111463959" duration="8492000" />
     </task>
     <task id="LOCAL-00001" summary="2024.1.8">
       <option name="closed" value="true" />
@@ -182,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705032272630</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2024.1.12">
+      <option name="closed" value="true" />
+      <created>1705122923637</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705122923637</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
